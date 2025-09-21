@@ -1,0 +1,45 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Streamlit cache
+.streamlit/
+
+# Logs
+*.log
+
+# HuggingFace model cache
+.cache/huggingface/
+
+# FAISS or other binary indexes
+*.index
+*.db
+
+# PDF, markdown, or exported files (optional)
+*.pdf
+*.md
+
+# Ignore specific folder and file
+Prajan Portfolio/
+output.txt
+Weather-dashboard-nextjs-2024/
+Bala 1 page Resume.pdf
+Bala Haveloc Resume.pdf
+declartion form -1.jpg
+declartion form.jpg
+main.py
+Prajan Portfolio.zip
+Weather-dashboard-nextjs-2024.zip
